@@ -9,7 +9,8 @@ noi suggeriamo di utilizzare docker. Nel caso segui i passaggi riportati di segu
 
 ## Clona il repository
 
-Se non l'hai già fatto clona il repository da github
+Se non l'hai già fatto clona il repository da github. Puoi clonare direttamente il nostro repository o, per semplicità, esegui un fork.
+(p.s. se hai eseguito un fork modifica il path nel comando successivo con il path al tuo repository)
 
 ```shell
 git clone git@github.com:Athomos-Github/Netsons-Test.git
@@ -59,3 +60,16 @@ oppure, se vuoi avviare in container in background:
 ```shell
 ./vendor/bin/sail up -d
 ```
+
+# Modifica il progetto e inviacelo
+
+A questo punto troverai maggiori informazioni su cosa puoi fare con il progetto direttamente nella index:
+
+```text
+http://localhost
+```
+
+Fai le tue modifiche e poi consegnacelo in una delle seguenti modalità:
+
+1. Cambia il remote con un tuo repository personale e inviaci il link al repository
+2. Inviaci un pacchetto zip con il progetto da te modificato
