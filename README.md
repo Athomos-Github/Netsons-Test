@@ -5,7 +5,9 @@ Questo è un progetto di test per la valutazioni delle capacità del candidato
 # Come installare il progetto
 
 Questo è un progetto basato su laravel. Puoi usare qualsiasi modo ti sia più congeniale per far avviare il progetto,
-noi suggeriamo di utilizzare docker. Nel caso segui i passaggi riportati di seguito:
+noi suggeriamo di utilizzare docker. Nel caso segui i passaggi riportati di seguito.
+
+Alternativamente puoi utilizzare [laravel valet](https://laravel.com/docs/10.x/valet)
 
 ## Clona il repository
 
